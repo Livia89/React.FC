@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# Task APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is has a example of how used React.FC (Function Component) to typing React Components
 
+## (!) Important Info (!)
+Don't forget to run npm install to install all dependencies before running this project
+--- 
 ## Available Scripts
 
 In the project directory, you can run:
